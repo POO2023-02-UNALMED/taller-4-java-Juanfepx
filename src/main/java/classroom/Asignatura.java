@@ -17,7 +17,7 @@ public class Asignatura {
     }
 
     public Asignatura(String nombre,Tipo tipo) {
-        this("Sin nombre", 0, 0,tipo);
+        this(nombre, 0, 0,tipo);
     }
 
 
